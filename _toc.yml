@@ -1,8 +1,8 @@
 format: jb-article
-root: content/introduction
 sections:
 - title: Introduction
   sections:
+  - file: content/introduction
   - file: content/table_of_contents
   - file: content/conventions_notation
   path: content
