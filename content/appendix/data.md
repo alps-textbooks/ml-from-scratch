@@ -1,12 +1,12 @@
 # Datasets
 
-The examples in this book use several datasets that are available either through `scikit-learn` or `seaboarn`. Those datasets are described briefly below. 
+The examples in this book use several datasets that are available either through `scikit-learn` or `seaborn`. Those datasets are described briefly below. 
 
 
 
-## Boston Housing 
+## California Housing 
 
-The [Boston housing dataset](https://www.kaggle.com/c/boston-housing) contains information on 506 neighborhoods in Boston, Massachusetts. The target variable is the median value of owner-occupied homes (which appears to be censored at $50,000). This variable is approximately continuous, and so we will use this dataset for regression tasks. The predictors are all numeric and include details such as racial demographics and crime rates. It is available through `sklearn.datasets`.
+The [California housing dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset) contains block-group level housing information from California. The target variable is the median house value for each block group, measured in hundreds of thousands of dollars. This variable is approximately continuous, and so we will use this dataset for regression tasks. The predictors are all numeric and include details such as median income, house age, average rooms, population, occupancy, latitude, and longitude. It is available through `sklearn.datasets.fetch_california_housing()`.
 
 
 
