@@ -178,18 +178,18 @@ The obvious problem with this set-up is that we are comparing the performance of
 
 As an example, let's use cross validation to choose a penalty value for a {doc}`Ridge regression </content/c2/s1/regularized>` model, discussed in chapter 2. This model constrains the magnitude of the regression coefficients; the higher the penalty term, the more the coefficients are constrained. 
 
-The example below uses the `Ridge` class from `scikit-learn`, which defines the penalty term with the `alpha` argument. We will use the {doc}`Boston housing </content/appendix/data>` dataset. 
+The example below uses the `Ridge` class from `scikit-learn`, which defines the penalty term with the `alpha` argument. We will use the {doc}`California housing </content/appendix/data>` dataset. 
 
 ```python
 ## Import packages 
 import numpy as np
 from sklearn.linear_model import Ridge
-from sklearn.datasets import load_boston
+from sklearn.datasets import fetch_california_housing
 
 ## Import data
-boston = load_boston()
-X = boston['data']
-y = boston['target']
+california = fetch_california_housing()
+X = california['data']
+y = california['target']
 N = X.shape[0]
 
 ## Choose alphas to consider
