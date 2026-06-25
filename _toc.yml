@@ -79,7 +79,6 @@ sections:
   sections:
   - file: content/c7/concept
   - file: content/c7/construction
-  - file: content/c7/code
   path: content/c7
 - title: Appendix
   sections:
