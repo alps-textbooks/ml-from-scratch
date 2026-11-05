@@ -88,3 +88,5 @@ sections:
   - file: content/appendix/methods
   - file: content/appendix/data
   path: content/appendix
+- file: about-this-book
+  title: About This Book
