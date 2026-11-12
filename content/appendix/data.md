@@ -1,6 +1,6 @@
 # Datasets
 
-The examples in this book use several datasets that are available either through `scikit-learn` or `seaborn`. Those datasets are described briefly below. 
+The examples in this book use several datasets that are available either through `scikit-learn` or `seaboarn`. Those datasets are described briefly below. 
 
 
 
