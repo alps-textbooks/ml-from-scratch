@@ -2,16 +2,16 @@
 
 ![2Sigma School](2sigma-school-logo.svg)
 
-**Machine Learning From Scratch** · *Derivations and implementations of common models*
+**Machine Learning from Scratch** · *Derivations and implementations of common models*
 
-**2Sigma School** · Alps edition · Updated October 2026
+**2Sigma School** · Alps edition · Updated November 2026
 
 This book gives mathematical derivations and from-scratch Python implementations of common machine learning models: linear and logistic regression, trees, ensembles and neural networks. This Alps edition runs the book's code in the page, with nothing to install.
 
 | At a glance | |
 |---|---|
 | **52 pages** | The book's chapters and sections |
-| **120 code cells** | Python that runs in the browser, apart from any cells shown for reference |
+| **137 code cells** | Python that runs in the browser, apart from any cells shown for reference |
 
 ## How to Use It
 
@@ -21,7 +21,7 @@ Read each page in order and run its code as you go. On a notebook page, run a ce
 
 ## Credits
 
-*Machine Learning From Scratch* is by Danny Friedman. Copyright (c) 2020 Daniel Friedman.
+*Machine Learning from Scratch* is by Danny Friedman. Copyright (c) 2020 Daniel Friedman.
 
 Source: [https://github.com/dafriedman97/mlbook](https://github.com/dafriedman97/mlbook)
 
@@ -29,7 +29,7 @@ License: [MIT License](https://opensource.org/license/mit). This edition is shar
 
 This edition has been adapted for Alps. As with every book on Alps, its preparation draws on Alps's content-enhancement capabilities, which include the use of language models.
 
-The book's authors are not affiliated with, and do not endorse, this edition.
+Danny Friedman is not affiliated with, and does not endorse, this edition.
 
 ## Alps Compatibility Changes
 
@@ -39,7 +39,6 @@ This edition differs from its source so that the book works on Alps, where its c
 - code adjusted for the library versions that run in the browser, or for libraries and system tools that are not available there
 - data read from a place the browser can reach, or replaced where the original can no longer be loaded
 - cells shown for reference, when they need something the browser cannot do
-- cells marked as expected to fail, such as a blank for the reader to fill in
 - corrections to Markdown or code, so that a page renders and runs
 
 The numbering of the book's chapters is not affected: this page comes after them. The source above shows the book as its authors published it.
