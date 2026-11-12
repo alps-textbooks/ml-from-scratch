@@ -2,7 +2,7 @@
 
 ![2Sigma School](2sigma-school-logo.svg)
 
-**Machine Learning From Scratch** · *Derivations and implementations of common models*
+**Machine Learning from Scratch** · *Derivations and implementations of common models*
 
 **2Sigma School** · Alps edition · Updated November 2026
 
@@ -21,7 +21,7 @@ Read each page in order and run its code as you go. On a notebook page, run a ce
 
 ## Credits
 
-*Machine Learning From Scratch* is by Danny Friedman. Copyright (c) 2020 Daniel Friedman.
+*Machine Learning from Scratch* is by Danny Friedman. Copyright (c) 2020 Daniel Friedman.
 
 Source: [https://github.com/dafriedman97/mlbook](https://github.com/dafriedman97/mlbook)
 

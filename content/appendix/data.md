@@ -6,7 +6,7 @@ The examples in this book use several datasets that are available either through
 
 ## California Housing 
 
-The [California housing dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset) contains block-group level housing information from California. The target variable is the median house value for each block group, measured in hundreds of thousands of dollars. This variable is approximately continuous, and so we will use this dataset for regression tasks. The predictors are all numeric and include details such as median income, house age, average rooms, population, occupancy, latitude, and longitude. It is available through `sklearn.datasets.fetch_california_housing()`.
+The [California housing dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset) contains block-group level housing information from California. The target variable is the median house value for each block group, measured in hundreds of thousands of dollars. This variable is approximately continuous, and so we will use this dataset for regression tasks. The predictors are all numeric and include details such as median income, house age, average rooms, population, occupancy, latitude, and longitude. It is available through `sklearn.datasets.fetch_california_housing()`. This edition uses it in place of the Boston housing dataset of the book's source, which `scikit-learn` no longer provides.
 
 
 
