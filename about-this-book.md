@@ -15,7 +15,7 @@ This book gives mathematical derivations and from-scratch Python implementations
 
 ## How to Use It
 
-Read each page in order and run its code as you go. On a notebook page, run a cell on its own, or choose **Run all cells** in the toolbar to run the page from the top. A cell shown for reference stays on the page, cannot be edited, and is stepped over by Run all. A cell with a blank for you to fill in shows an error until you complete it.
+Read each page in order and run its code as you go. On a notebook page, run a cell on its own, or choose **Run all cells** in the toolbar to run the page from the top. A cell shown for reference stays on the page, cannot be edited, and is stepped over by Run all.
 
 > **Found a problem?** Teachers: choose Report Bug in the left menu, then select the bug icon on the item, or highlight the text. Students: tell your teacher. You can also email [support@alps.2sigma.us](mailto:support@alps.2sigma.us) with the book, chapter and page name.
 
